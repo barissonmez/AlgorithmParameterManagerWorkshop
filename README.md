@@ -4,4 +4,4 @@ An Asp.net MVC based monolithic application that generates dynamic UI elements a
 #SetUp
   - Download and extract repository
   - Restore "AlgorithmParameterManagerDB.bak" DB backup file.
-  - Update "ConnectionString" value which is under the "<appSettings>...</appSettings>" node in "AlgorithmParameterManager.UI.Web/Web.config" file.
+  - Update "ConnectionString" value which is under the "appSettings" node in "AlgorithmParameterManager.UI.Web/Web.config" file.
