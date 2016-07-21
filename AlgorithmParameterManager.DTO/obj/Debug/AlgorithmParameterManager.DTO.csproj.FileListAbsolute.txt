@@ -1,0 +1,4 @@
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DTO\bin\Debug\AlgorithmParameterManager.DTO.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DTO\bin\Debug\AlgorithmParameterManager.DTO.pdb
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DTO\obj\Debug\AlgorithmParameterManager.DTO.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DTO\obj\Debug\AlgorithmParameterManager.DTO.pdb

@@ -1,0 +1,4 @@
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Entity\bin\Debug\AlgorithmParameterManager.Entity.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Entity\bin\Debug\AlgorithmParameterManager.Entity.pdb
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Entity\obj\Debug\AlgorithmParameterManager.Entity.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Entity\obj\Debug\AlgorithmParameterManager.Entity.pdb

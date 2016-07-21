@@ -1,0 +1,55 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/f:packages.config" caret="0" fromTop="0" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/f:Global.asax.cs" caret="874" fromTop="16" />
+    <File id="B8957EB9-6305-4D71-891D-F55EA1F25056/f:App.config" caret="356" fromTop="10" />
+    <File id="DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05/f:App.config" caret="338" fromTop="9" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/f:Web.config" caret="911" fromTop="16" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Views/d:Shared/f:Error.cshtml" caret="0" fromTop="0" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:App_Start/f:BundleConfig.cs" caret="448" fromTop="9" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Views/d:Shared/f:_Layout.cshtml" caret="1010" fromTop="16" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Views/d:AlgorithmParameterManager/f:Index.cshtml" caret="604" fromTop="7" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Views/f:_ViewStart.cshtml" caret="8" fromTop="1" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Models/f:ParameterManagementListViewModel.cs" caret="399" fromTop="12" />
+    <File id="C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2/f:ResultDTO.cs" caret="448" fromTop="18" />
+    <File id="C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2/f:AlgorithmParameterDTO.cs" caret="205" fromTop="8" />
+    <File id="DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05/f:ServiceManagerTests.cs" caret="774" fromTop="7" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:App_Start/f:RouteConfig.cs" caret="545" fromTop="15" />
+    <File id="8012F79F-E54E-4CB7-AEE1-1A5A2F22E856/f:AlgorithmParameter.cs" caret="0" fromTop="0" />
+    <File id="DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05/f:DataManagerTests.cs" caret="2912" fromTop="21" />
+    <File id="B8957EB9-6305-4D71-891D-F55EA1F25056/f:SQLHelper.cs" caret="0" fromTop="0" />
+    <File id="B8957EB9-6305-4D71-891D-F55EA1F25056/f:DataManager.cs" caret="330" fromTop="5" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Models/f:ParameterManagementViewModel.cs" caret="272" fromTop="10" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Models/f:ParameterManagementRequestModel.cs" caret="0" fromTop="0" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Models/f:ResponseViewModel.cs" caret="262" fromTop="11" />
+    <File id="FA2AAC3C-2174-4DB3-AB8F-C38147BAFA95/f:AlgorithmParameterManagerService.cs" caret="3196" fromTop="23" />
+    <File id="C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2/f:Enums.cs" caret="218" fromTop="10" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Views/d:AlgorithmParameterManager/f:ParameterManagement.cshtml" caret="12855" fromTop="50" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Controllers/f:AlgorithmParameterManagerController.cs" caret="3105" fromTop="14" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/f:Global.asax.cs" caret="863" fromTop="15" />
+    <File id="B8957EB9-6305-4D71-891D-F55EA1F25056/f:App.config" caret="217" fromTop="6" />
+    <File id="8012F79F-E54E-4CB7-AEE1-1A5A2F22E856/f:AlgorithmParameter.cs" caret="243" fromTop="10" />
+    <File id="DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05/f:App.config" caret="356" fromTop="10" />
+    <File id="B8957EB9-6305-4D71-891D-F55EA1F25056/f:SQLHelper.cs" caret="509" fromTop="11" />
+    <File id="B8957EB9-6305-4D71-891D-F55EA1F25056/f:DataManager.cs" caret="330" fromTop="5" />
+    <File id="C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2/f:AlgorithmParameterDTO.cs" caret="205" fromTop="8" />
+    <File id="C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2/f:ResultDTO.cs" caret="310" fromTop="13" />
+    <File id="DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05/f:DataManagerTests.cs" caret="1588" fromTop="14" />
+    <File id="FA2AAC3C-2174-4DB3-AB8F-C38147BAFA95/f:AlgorithmParameterManagerService.cs" caret="5498" fromTop="13" />
+    <File id="DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05/f:ServiceManagerTests.cs" caret="3134" fromTop="15" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/f:Web.config" caret="911" fromTop="16" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:App_Start/f:RouteConfig.cs" caret="402" fromTop="13" />
+    <File id="C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2/f:Enums.cs" caret="460" fromTop="22" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Models/f:ResponseViewModel.cs" caret="416" fromTop="17" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Models/f:ParameterManagementListViewModel.cs" caret="397" fromTop="12" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:App_Start/f:BundleConfig.cs" caret="581" fromTop="11" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Views/d:AlgorithmParameterManager/f:Index.cshtml" caret="535" fromTop="9" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Views/d:Shared/f:_Layout.cshtml" caret="977" fromTop="13" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Models/f:ParameterManagementViewModel.cs" caret="456" fromTop="11" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Models/f:ParameterManagementRequestModel.cs" caret="505" fromTop="9" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Views/d:AlgorithmParameterManager/f:ParameterManagement.cshtml" caret="12484" fromTop="15" />
+    <File id="6F39D0EE-3EFC-424B-9495-EAF320FE0F2D/d:Controllers/f:AlgorithmParameterManagerController.cs" caret="2901" fromTop="8" />
+  </RecentEdits>
+</RecentFiles>

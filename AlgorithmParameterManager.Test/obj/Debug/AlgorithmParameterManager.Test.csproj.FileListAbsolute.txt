@@ -1,0 +1,14 @@
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.Test.dll.config
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.Test.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.Test.pdb
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.DataManager.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.DTO.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.Entity.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.ServiceManager.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.DataManager.pdb
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.DTO.pdb
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.Entity.pdb
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\bin\Debug\AlgorithmParameterManager.ServiceManager.pdb
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\obj\Debug\AlgorithmParameterManager.Test.csprojResolveAssemblyReference.cache
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\obj\Debug\AlgorithmParameterManager.Test.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.Test\obj\Debug\AlgorithmParameterManager.Test.pdb

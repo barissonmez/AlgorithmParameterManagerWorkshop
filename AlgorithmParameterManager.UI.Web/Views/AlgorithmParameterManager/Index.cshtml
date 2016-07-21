@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model Dictionary<int, string>
+
+<h2>Algorithm Selection</h2>
+<p>Please select an algorithm type and then click "Next" button.</p>
+<p>
+    <select id="select-algorithm-type">
+        <option value="-1">Please select</option>
+        @foreach (var item in Model)
+        {
+            <option value="@item.Key">@item.Value</option>
+        }
+    </select>
+</p>
+
+<a id="button-next" href="javascript:;" class="btn btn-default" role="button">Next</a>
+
+@section scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#select-algorithm-type").change(function () {
+                var url = '/AlgorithmParameterManager/ParameterManagement/' + this.value;
+                $("#button-next").attr('href', url);
+            });
+        });
+    </script>
+}

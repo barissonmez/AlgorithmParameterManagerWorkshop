@@ -1,0 +1,8 @@
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DataManager\bin\Debug\AlgorithmParameterManager.DataManager.dll.config
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DataManager\bin\Debug\AlgorithmParameterManager.DataManager.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DataManager\bin\Debug\AlgorithmParameterManager.DataManager.pdb
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DataManager\bin\Debug\AlgorithmParameterManager.Entity.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DataManager\bin\Debug\AlgorithmParameterManager.Entity.pdb
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DataManager\obj\Debug\AlgorithmParameterManager.DataManager.csprojResolveAssemblyReference.cache
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DataManager\obj\Debug\AlgorithmParameterManager.DataManager.dll
+c:\users\b.sonmez\documents\visual studio 2012\Projects\AlgorithmParameterManager\AlgorithmParameterManager.DataManager\obj\Debug\AlgorithmParameterManager.DataManager.pdb

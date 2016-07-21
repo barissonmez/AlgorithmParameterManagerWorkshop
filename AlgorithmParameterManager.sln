@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmParameterManager.DataManager", "AlgorithmParameterManager.DataManager\AlgorithmParameterManager.DataManager.csproj", "{B8957EB9-6305-4D71-891D-F55EA1F25056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmParameterManager.ServiceManager", "AlgorithmParameterManager.ServiceManager\AlgorithmParameterManager.ServiceManager.csproj", "{FA2AAC3C-2174-4DB3-AB8F-C38147BAFA95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmParameterManager.UI.Web", "AlgorithmParameterManager.UI.Web\AlgorithmParameterManager.UI.Web.csproj", "{6F39D0EE-3EFC-424B-9495-EAF320FE0F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmParameterManager.Entity", "AlgorithmParameterManager.Entity\AlgorithmParameterManager.Entity.csproj", "{8012F79F-E54E-4CB7-AEE1-1A5A2F22E856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmParameterManager.DTO", "AlgorithmParameterManager.DTO\AlgorithmParameterManager.DTO.csproj", "{C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmParameterManager.Test", "AlgorithmParameterManager.Test\AlgorithmParameterManager.Test.csproj", "{DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8957EB9-6305-4D71-891D-F55EA1F25056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8957EB9-6305-4D71-891D-F55EA1F25056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8957EB9-6305-4D71-891D-F55EA1F25056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8957EB9-6305-4D71-891D-F55EA1F25056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2AAC3C-2174-4DB3-AB8F-C38147BAFA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2AAC3C-2174-4DB3-AB8F-C38147BAFA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2AAC3C-2174-4DB3-AB8F-C38147BAFA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2AAC3C-2174-4DB3-AB8F-C38147BAFA95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F39D0EE-3EFC-424B-9495-EAF320FE0F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F39D0EE-3EFC-424B-9495-EAF320FE0F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F39D0EE-3EFC-424B-9495-EAF320FE0F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F39D0EE-3EFC-424B-9495-EAF320FE0F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8012F79F-E54E-4CB7-AEE1-1A5A2F22E856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8012F79F-E54E-4CB7-AEE1-1A5A2F22E856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8012F79F-E54E-4CB7-AEE1-1A5A2F22E856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8012F79F-E54E-4CB7-AEE1-1A5A2F22E856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63F7EDF-3AA8-4882-BF12-B6FD415E9CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8A25C5-6619-4DAA-9ED1-C365DB5A4B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
